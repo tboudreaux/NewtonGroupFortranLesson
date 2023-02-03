@@ -46,7 +46,7 @@ change depending on if you use a mac with an x86 arcitecture or one with an ARM
 arcitecture. However, there is a way to make this super easy, and that's by using
 the OSX package manager called Homebrew.
 
-####Install via Homebrew
+#### Install via Homebrew
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew install gcc
@@ -56,7 +56,7 @@ The first command there will install homebrew to your computer and the second
 will install gcc using homebrew. This will take care of selecting the correct
 version for the arcitecture of your computer.
 
-####Install via Conda
+#### Install via Conda
 Assuming you have anaconda installed and intentialized you can also install
 gfortran using the conda package manager
 
