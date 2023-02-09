@@ -1,5 +1,6 @@
       PROGRAM MAIN
-      real refx, refml, refL, regR
+      implicit none
+      real refx, refml, refL, refR
       real cxx, cxml, cxL, cxR
       real cmlc, cmlml, cmlL, cmlR
       real dldx,drdx,dlda,drda,da,dx

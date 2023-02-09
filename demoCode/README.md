@@ -40,11 +40,6 @@ Each of these folders contains some code to demo a concept in Fortran.
 	This demo shows how to split code betweem multiple files and then compile
 	them together.
 
-## NamelistFiles:
-	A lot of Fortran code will make use of what are called Namelist Files. Think
-	of these like configuration files which store values for variables that can
-	be read in by the program. This demo shows a basic version of that.
-
 ## OrderOfOperations:
 	The order of operations in Fortran is what you would expect; however, a good
 	thing is always to proove that to oneself. THis demo does that.
